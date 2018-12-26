@@ -1,1 +1,105 @@
-<JSD015_Yugumo_1941_Bow_ports.visual><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Bow_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_JGM_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.337237 2.754542 1.000000</row3></transform></node><node><identifier>MP_JM284_Anchor_Capstan</identifier><transform><row0>0.695071 0.000000 0.000000 0.000000</row0><row1>0.000000 0.692324 -0.061738 0.000000</row1><row2>0.000000 0.061738 0.692324 0.000000</row2><row3>-0.000178 0.358141 3.187953 1.000000</row3></transform></node><node><identifier>MP_CTD0652</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.293466 3.738281</row3></transform></node><node><identifier>MP_JM201_Bitt</identifier><transform><row0>0.802286 0.000000 0.000000 0.000000</row0><row1>0.000000 0.802286 0.000000 0.000000</row1><row2>0.000000 0.000000 0.802286 0.000000</row2><row3>-0.000178 0.338346 3.339957 1.000000</row3></transform></node><node><identifier>MP_CTD0651</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.289489 3.741941</row3></transform></node><node><identifier>MP_JM141_Break_Handwheel_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.996047 -0.088822 0.000000</row1><row2>0.000000 0.088822 0.996047 0.000000</row2><row3>0.072368 0.337712 3.146960 1.000000</row3></transform></node><node><identifier>MP_JM125_Signal_Lamp_3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 -1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.012223 0.661987 4.039514 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 3.311929 1.000000</row3></transform></node><node><identifier>HP_Ship_death_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 2.537577 1.000000</row3></transform></node></node></node></JSD015_Yugumo_1941_Bow_ports.visual>
+<JSD015_Yugumo_1941_Bow_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_JGM_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.337237 2.754542 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM284_Anchor_Capstan	</identifier>
+				<transform>
+					<row0>	0.695071 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.692324 -0.061738 0.000000	</row1>
+					<row2>	0.000000 0.061738 0.692324 0.000000	</row2>
+					<row3>	-0.000178 0.358141 3.187953 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTD0652	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.293466 3.738281	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM201_Bitt	</identifier>
+				<transform>
+					<row0>	0.802286 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.802286 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.802286 0.000000	</row2>
+					<row3>	-0.000178 0.338346 3.339957 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTD0651	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.289489 3.741941	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM141_Break_Handwheel_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.996047 -0.088822 0.000000	</row1>
+					<row2>	0.000000 0.088822 0.996047 0.000000	</row2>
+					<row3>	0.072368 0.337712 3.146960 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 -1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.012223 0.661987 4.039514 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 3.311929 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 2.537577 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</JSD015_Yugumo_1941_Bow_ports.visual>

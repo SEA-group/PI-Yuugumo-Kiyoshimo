@@ -1,1 +1,56 @@
-<JGA019_25mm_Type96_double.visual><boundingBox><min>-0.066977 -0.000000 -0.050266</min><max>0.063544 0.127724 0.105205</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.009795 0.125242 0.103622 1.000000</row3></transform></node><node><identifier>HP_gunFire2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>-0.009462 0.125242 0.103622 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret</node><geometry><vertices>TurretShape.vertices</vertices><primitive>TurretShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunX</identifier><mfm>PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/3d2776f9df05c9c57b25017f4f433fcb.mfm</mfm></material></primitiveGroup></geometry></renderSet></JGA019_25mm_Type96_double.visual>
+<JGA019_25mm_Type96_double.visual>
+	<boundingBox>
+		<min>	-0.066977 -0.000000 -0.050266	</min>
+		<max>	0.063544 0.127724 0.105205	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.009795 0.125242 0.103622 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.009462 0.125242 0.103622 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret	</node>
+		<geometry>
+			<vertices>	TurretShape.vertices	</vertices>
+			<primitive>	TurretShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_Type96_double.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGA019_25mm_Type96_double.visual>

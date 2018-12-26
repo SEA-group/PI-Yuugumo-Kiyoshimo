@@ -1,1 +1,13 @@
-<JGT012_610mm4_Type_93.model><castsShadow>true</castsShadow><materialNames /><visibilityBox><min>-0.158043 0.000000 -0.258780</min><max>0.158044 0.187014 0.340437</max></visibilityBox><extent>4.0000</extent><parent>PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_lod1</parent><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JGT012_610mm4_Type_93.model>
+<JGT012_610mm4_Type_93.model>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.158043 0.000000 -0.258780	</min>
+		<max>	0.158044 0.187014 0.340437	</max>
+	</visibilityBox>
+	<extent>	4.0000	</extent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_lod1	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT012_610mm4_Type_93.model>

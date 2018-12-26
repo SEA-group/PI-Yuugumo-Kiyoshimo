@@ -1,1 +1,38 @@
-<JGA018_25mm_Type96_single_dead_lod1.visual><boundingBox><min>-0.036801 -0.001711 -0.074586</min><max>0.025161 0.108937 0.096209</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>singleTurret_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>singleTurret_dead</node><geometry><vertices>singleTurret_dead_lod1Shape.vertices</vertices><primitive>singleTurret_dead_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunXDead</identifier><mfm>PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/198c22772a9b631150aea4b04a756f03.mfm</mfm></material></primitiveGroup></geometry></renderSet></JGA018_25mm_Type96_single_dead_lod1.visual>
+<JGA018_25mm_Type96_single_dead_lod1.visual>
+	<boundingBox>
+		<min>	-0.036801 -0.001711 -0.074586	</min>
+		<max>	0.025161 0.108937 0.096209	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	singleTurret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	singleTurret_dead	</node>
+		<geometry>
+			<vertices>	singleTurret_dead_lod1Shape.vertices	</vertices>
+			<primitive>	singleTurret_dead_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunXDead	</identifier>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA018_25mm_Type96_single_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGA018_25mm_Type96_single_dead_lod1.visual>
