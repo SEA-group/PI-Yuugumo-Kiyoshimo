@@ -85,7 +85,7 @@
 			<primitive>	radar_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/radar/JRS007_Radar_Type_22_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
