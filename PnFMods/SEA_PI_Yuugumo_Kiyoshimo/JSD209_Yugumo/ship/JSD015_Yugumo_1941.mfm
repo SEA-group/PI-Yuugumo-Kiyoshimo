@@ -5,6 +5,15 @@
 	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	127	</Int>
+	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_a.tga	</Texture>
 	</property>

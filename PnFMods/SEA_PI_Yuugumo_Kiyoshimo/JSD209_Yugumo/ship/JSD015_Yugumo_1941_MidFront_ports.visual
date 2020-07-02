@@ -353,24 +353,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTD0643	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.718640 1.835009	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM092_Running_Lights_R	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.131414 0.595173 1.895651 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM244_Gyro_2	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -398,30 +380,30 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_JM092_Running_Lights_R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1314 0.5952 1.8957 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM093_Running_Lights_L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1284 0.5952 1.8957 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_JM367_Rangefinder_66cm	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.724411 1.882325 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTD0667	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.032328 0.573520 1.110766	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM056_Ships_bell	</identifier>
-				<transform>
-					<row0>	0.839395 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.839395 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.839395 0.000000	</row2>
-					<row3>	0.127029 0.305321 1.535612 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -449,15 +431,6 @@
 					<row1>	0.000000 0.534724 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 0.534724 0.000000	</row2>
 					<row3>	0.084922 1.381978 1.358659 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM093_Running_Lights_L	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.128423 0.595176 1.895733 1.000000	</row3>
 				</transform>
 			</node>
 			<node>

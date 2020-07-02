@@ -83,15 +83,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTD0655	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.004520 0.298009 -1.879153	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM366_Rangefinder_2m	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
