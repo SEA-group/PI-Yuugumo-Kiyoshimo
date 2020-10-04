@@ -1,6 +1,6 @@
 <JGM151_127mm50_Type_C.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGM151_127mm50_Type_C_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGM151_127mm50_Type_C_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

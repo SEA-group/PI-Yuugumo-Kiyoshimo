@@ -1,9 +1,0 @@
-<JD092_Director_Type_94_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94_lod2	</parent>
-	<extent>	4.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JD092_Director_Type_94_lod1.model>

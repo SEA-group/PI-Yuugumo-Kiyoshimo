@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/radar/JRS070_Radar_Type_22_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/radar/lods/JRS070_Radar_Type_22_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.049734 0.000223 -0.070520	</min>

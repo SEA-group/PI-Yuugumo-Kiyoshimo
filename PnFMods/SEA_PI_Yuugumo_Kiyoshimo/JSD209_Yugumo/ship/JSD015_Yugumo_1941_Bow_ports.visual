@@ -56,30 +56,12 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM284_Anchor_Capstan	</identifier>
-				<transform>
-					<row0>	0.695071 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.692324 -0.061738 0.000000	</row1>
-					<row2>	0.000000 0.061738 0.692324 0.000000	</row2>
-					<row3>	-0.000178 0.358141 3.187953 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_CTD0652	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000	</row2>
 					<row3>	0.000000 0.293466 3.738281	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM201_Bitt	</identifier>
-				<transform>
-					<row0>	0.802286 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.802286 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.802286 0.000000	</row2>
-					<row3>	-0.000178 0.338346 3.339957 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -92,21 +74,21 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM141_Break_Handwheel_1	</identifier>
+				<identifier>	MP_JM201_Bitt	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.996047 -0.088822 0.000000	</row1>
-					<row2>	0.000000 0.088822 0.996047 0.000000	</row2>
-					<row3>	0.072368 0.337712 3.146960 1.000000	</row3>
+					<row0>	0.8023 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.8023 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.8023 0.0000	</row2>
+					<row3>	-0.0002 0.3383 3.3400 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+				<identifier>	MP_JM284_Anchor_Capstan	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 -1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	-0.012223 0.661987 4.039514 1.000000	</row3>
+					<row0>	0.6951 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.6923 -0.0617 0.0000	</row1>
+					<row2>	0.0000 0.0617 0.6923 0.0000	</row2>
+					<row3>	-0.0002 0.3581 3.1880 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

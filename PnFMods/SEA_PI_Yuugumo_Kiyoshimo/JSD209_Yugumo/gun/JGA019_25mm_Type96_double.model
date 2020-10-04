@@ -1,7 +1,7 @@
 <JGA019_25mm_Type96_double.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_25mm_Type96_double_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGA019_25mm_Type96_double_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.066977 -0.000000 -0.050266	</min>

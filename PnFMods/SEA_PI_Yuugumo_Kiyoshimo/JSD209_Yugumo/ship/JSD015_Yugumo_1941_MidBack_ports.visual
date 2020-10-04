@@ -74,24 +74,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.995874 -0.090752 0.000000	</row1>
-					<row2>	0.000000 0.090752 0.995874 0.000000	</row2>
-					<row3>	0.006661 0.964606 -1.364929 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM366_Rangefinder_2m	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.056343 0.360057 -1.041398 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_Ship_death_2	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>

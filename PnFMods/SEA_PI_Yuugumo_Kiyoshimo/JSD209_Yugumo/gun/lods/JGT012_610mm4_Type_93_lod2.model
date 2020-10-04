@@ -1,0 +1,13 @@
+<JGT012_610mm4_Type_93_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	20.0000	</extent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGT012_610mm4_Type_93_lod3	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.144492 0.000000 -0.258876	</min>
+		<max>	0.144492 0.171612 0.340437	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGT012_610mm4_Type_93_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT012_610mm4_Type_93_lod2.model>

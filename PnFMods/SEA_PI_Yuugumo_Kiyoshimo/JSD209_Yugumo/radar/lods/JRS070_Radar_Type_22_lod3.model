@@ -1,0 +1,16 @@
+<JRS070_Radar_Type_22_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	NC_JRS070_Radar_Type_22	</animation>
+	</action>
+	<exporter>	1.6	</exporter>
+	<extent>	30.000000	</extent>
+	<animation>
+		<name>	NC_JRS070_Radar_Type_22	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/NC_JRS070_Radar_Type_22	</nodes>
+	</animation>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/radar/lods/JRS070_Radar_Type_22_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS070_Radar_Type_22_lod3.model>

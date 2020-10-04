@@ -1,0 +1,8 @@
+<JGA019_25mm_Type96_double_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	4.000000	</extent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGA019_25mm_Type96_double_lod2	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGA019_25mm_Type96_double_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA019_25mm_Type96_double_lod1.model>

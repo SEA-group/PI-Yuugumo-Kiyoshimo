@@ -1,7 +1,7 @@
 <JGT012_610mm4_Type_93_dead.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	4.0000	</extent>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGT012_610mm4_Type_93_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.155683 0.000000 -0.262803	</min>
