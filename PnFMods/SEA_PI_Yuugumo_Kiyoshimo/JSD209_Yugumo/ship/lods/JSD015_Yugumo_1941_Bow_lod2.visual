@@ -56,7 +56,7 @@
 			<primitive>	Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -70,7 +70,7 @@
 			<primitive>	Bow_crack_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -84,7 +84,7 @@
 			<primitive>	Bow_crack_MidFront_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -98,7 +98,7 @@
 			<primitive>	Bow_patch_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>

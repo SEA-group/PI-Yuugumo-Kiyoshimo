@@ -47,7 +47,7 @@
 			<primitive>	singleTurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA018_25mm_Type96_single.mfm	</mfm>
 				</material>
 			</primitiveGroup>

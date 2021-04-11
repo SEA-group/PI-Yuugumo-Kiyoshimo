@@ -29,7 +29,7 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunXDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -29,14 +29,8 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_Shiden	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/shiden.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

@@ -29,7 +29,7 @@
 			<primitive>	JD092_Director_Type_94_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -130,7 +130,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGM151_127mm50_Type_C_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
