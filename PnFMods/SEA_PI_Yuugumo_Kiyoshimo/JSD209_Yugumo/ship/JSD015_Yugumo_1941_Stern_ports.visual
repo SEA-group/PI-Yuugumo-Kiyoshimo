@@ -101,6 +101,51 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_JGB_1	</identifier>
+				<transform>
+					<row0>	-0.2438 -0.0079 0.9698 0.0000	</row0>
+					<row1>	-0.1340 0.9906 -0.0257 0.0000	</row1>
+					<row2>	-0.9605 -0.1362 -0.2426 0.0000	</row2>
+					<row3>	-0.1572 0.1849 -3.6334 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_2	</identifier>
+				<transform>
+					<row0>	-0.2481 0.0085 -0.9687 0.0000	</row0>
+					<row1>	0.1340 0.9906 -0.0257 0.0000	</row1>
+					<row2>	0.9594 -0.1362 -0.2469 0.0000	</row2>
+					<row3>	0.1575 0.1850 -3.6336 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_3	</identifier>
+				<transform>
+					<row0>	-0.2481 0.0085 -0.9687 0.0000	</row0>
+					<row1>	0.1340 0.9906 -0.0257 0.0000	</row1>
+					<row2>	0.9594 -0.1362 -0.2469 0.0000	</row2>
+					<row3>	0.1368 0.1849 -3.7061 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_4	</identifier>
+				<transform>
+					<row0>	-0.2692 -0.0115 0.9630 0.0000	</row0>
+					<row1>	-0.1340 0.9906 -0.0257 0.0000	</row1>
+					<row2>	-0.9537 -0.1360 -0.2682 0.0000	</row2>
+					<row3>	-0.1359 0.1848 -3.7092 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_5	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.1962 -2.8800 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_JGM_3	</identifier>
 				<transform>
 					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
