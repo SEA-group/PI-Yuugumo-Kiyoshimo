@@ -370,6 +370,168 @@
 					<row3>	-0.255397 1.340141 1.324834 1.000000	</row3>
 				</transform>
 			</node>
+			<node>
+				<identifier>	MP_CM008_Life_Buoy_1	</identifier>
+				<transform>
+					<row0>	0.1168 -0.0016 0.9931 0.0000	</row0>
+					<row1>	0.0052 1.0000 0.0010 0.0000	</row1>
+					<row2>	-0.9931 0.0051 0.1168 0.0000	</row2>
+					<row3>	0.1802 0.6106 1.7992 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM008_Life_Buoy_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.1949 0.0000 0.9808 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9808 0.0000 -0.1949 0.0000	</row2>
+					<row3>	0.0972 0.4993 -0.2662 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM008_Life_Buoy_1_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0998 0.0000 -0.9950 0.0000	</row0>
+					<row1>	0.0085 1.0000 0.0009 0.0000	</row1>
+					<row2>	0.9950 -0.0085 0.0998 0.0000	</row2>
+					<row3>	-0.1804 0.6107 1.7993 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM008_Searchlight	</identifier>
+				<transform>
+					<row0>	1.2252 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.2252 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.2252 0.0000	</row2>
+					<row3>	0.0000 0.4812 -0.2755 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM011_Day_Light	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0143 1.0591 1.3932 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM030_Wind_Direction	</identifier>
+				<transform>
+					<row0>	0.5347 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.5347 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.5347 0.0000	</row2>
+					<row3>	0.0849 1.3820 1.3587 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM031_Wind_Intensity	</identifier>
+				<transform>
+					<row0>	0.7000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.6953 -0.0813 0.0000	</row1>
+					<row2>	0.0000 0.0813 0.6953 0.0000	</row2>
+					<row3>	0.0000 1.4710 1.3393 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM092_Running_Lights_R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1314 0.5952 1.8957 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM093_Running_Lights_L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1284 0.5952 1.8957 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM107_Binocular_2	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.1527 0.5906 1.7840 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM107_Binocular_2_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1417 0.5906 1.8589 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM107_Binocular_2_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.0833 0.5900 2.0030 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM107_Binocular_2_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1417 0.5906 1.8589 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM107_Binocular_2_INDEX_4	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.0833 0.5900 2.0030 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM107_Binocular_2_INDEX_5	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1527 0.5906 1.7840 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.9934 -0.1151 0.0000	</row1>
+					<row2>	0.0000 0.1151 0.9934 0.0000	</row2>
+					<row3>	0.0000 1.4563 1.3410 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM125_Signal_Lamp_3_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0002 0.9164 1.4964 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM367_Rangefinder_66cm	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.7244 1.8823 1.0000	</row3>
+				</transform>
+			</node>
 		</node>
 	</node>
 </JSD015_Yugumo_1941_MidFront_ports.visual>
