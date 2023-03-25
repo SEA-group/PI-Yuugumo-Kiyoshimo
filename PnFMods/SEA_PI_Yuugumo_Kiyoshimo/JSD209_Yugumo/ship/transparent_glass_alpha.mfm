@@ -1,7 +1,7 @@
 <transparent_glass_alpha.mfm>
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/glass_a.tga	</Texture>
 	</property>
