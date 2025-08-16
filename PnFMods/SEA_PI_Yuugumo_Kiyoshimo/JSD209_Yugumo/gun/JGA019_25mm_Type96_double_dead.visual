@@ -1,38 +1,106 @@
 <JGA019_25mm_Type96_double_dead.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Turret_dead	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.069722 -0.000000 -0.056116	</min>
 		<max>	0.061598 0.094192 0.121564	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	Turret_dead	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Turret_dead	</node>
-		<geometry>
-			<vertices>	Turret_deadShape.vertices	</vertices>
-			<primitive>	Turret_deadShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_25mm_Type96_double_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	Turret_deadShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_25mm_Type96_double_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Turret_dead_lodShape1	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_25mm_Type96_double_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Turret_dead_lodShape2	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_25mm_Type96_double_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Turret_dead_lodShape3	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA019_25mm_Type96_double_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_deadShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	4.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_dead_lodShape1	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	6.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_dead_lodShape2	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	18.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_dead_lodShape3	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </JGA019_25mm_Type96_double_dead.visual>

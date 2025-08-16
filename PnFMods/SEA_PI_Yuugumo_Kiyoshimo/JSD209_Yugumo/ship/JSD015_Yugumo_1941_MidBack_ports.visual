@@ -1,114 +1,128 @@
 <JSD015_Yugumo_1941_MidBack_ports.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidBack_ports	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_FX_Death_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -2.1316 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Fire_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.2607 -1.1254 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Fire_3_side_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.2687 0.1860 -0.8576 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Flood_water_left	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.3510 0.0132 -1.5640 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Flood_water_right	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.3510 0.0133 -1.5638 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGM_2	</identifier>
+					<transform>
+						<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 0.346727 -1.773208 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGT_2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.212430 -0.696414 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 0.9959 -0.0908 0.0000	</row1>
+						<row2>	0.0000 0.0908 0.9959 0.0000	</row2>
+						<row3>	0.0067 0.9646 -1.3649 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM366_Rangefinder_2m	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0563 0.3601 -1.0414 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 -0.576600 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.066700 -0.066700 -0.066700	</min>
 		<max>	0.066700 0.066700 0.066700	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
-		</transform>
-		<node>
-			<identifier>	MidBack_ports	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	HP_FX_Death_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -2.1316 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Fire_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.2607 -1.1254 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Fire_3_side_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.2687 0.1860 -0.8576 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Flood_water_left	</identifier>
-				<transform>
-					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.3510 0.0132 -1.5640 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Flood_water_right	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.3510 0.0133 -1.5638 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGM_2	</identifier>
-				<transform>
-					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.346727 -1.773208 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGT_2	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.212430 -0.696414 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.9959 -0.0908 0.0000	</row1>
-					<row2>	0.0000 0.0908 0.9959 0.0000	</row2>
-					<row3>	0.0067 0.9646 -1.3649 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM366_Rangefinder_2m	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0563 0.3601 -1.0414 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Ship_death_2	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 -0.576600 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
+	<renderSets />
+	<lods>
+		<lod>
+			<extent>	200.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets />
+		</lod>
+	</lods>
 </JSD015_Yugumo_1941_MidBack_ports.visual>

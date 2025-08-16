@@ -1,9 +1,6 @@
 <JSD015_Yugumo_1941_Bow.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/lods/JSD015_Yugumo_1941_Bow_lod1	</parent>
-	<extent>	8.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Bow	</nodefullVisual>
+	<visual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Bow.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JSD015_Yugumo_1941_Bow.model>

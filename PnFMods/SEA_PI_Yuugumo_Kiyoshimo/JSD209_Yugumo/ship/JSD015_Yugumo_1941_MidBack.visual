@@ -1,268 +1,574 @@
 <JSD015_Yugumo_1941_MidBack.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	SEA_Platform	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	SEA_Shiden	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_Net	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_MidFront	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_crack_MidFront_in	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_Stern	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_crack_Stern_in	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_patch_Stern	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_patch_Stern_wire	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.419264 -0.278999 -2.570150	</min>
 		<max>	0.392244 1.060747 -0.342703	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	MidBack	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	SEA_Platform	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	SEA_Shiden	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_Net	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_MidFront	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	MidBack_crack_MidFront_in	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-			</node>
-			<node>
-				<identifier>	MidBack_wire	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_crack_Stern	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	MidBack_crack_Stern_in	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-			</node>
-			<node>
-				<identifier>	MidBack_patch_Stern	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	MidBack_patch_Stern_wire	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack	</node>
-		<geometry>
-			<vertices>	MidBackShape.vertices	</vertices>
-			<primitive>	MidBackShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	SEA_Platform	</node>
-		<geometry>
-			<vertices>	SEA_Platform.vertices	</vertices>
-			<primitive>	SEA_Platform.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Platform	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/platform.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	SEA_Shiden	</node>
-		<geometry>
-			<vertices>	SEA_Shiden.vertices	</vertices>
-			<primitive>	SEA_Shiden.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Shiden	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/shiden.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_Net	</node>
-		<geometry>
-			<vertices>	MidBack_NetShape.vertices	</vertices>
-			<primitive>	MidBack_NetShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Net	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C010_Grid_8_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFrontShape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFrontShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_MidFront_in	</node>
-		<geometry>
-			<vertices>	MidBack_crack_MidFront_inShape.vertices	</vertices>
-			<primitive>	MidBack_crack_MidFront_inShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_wire	</node>
-		<geometry>
-			<vertices>	MidBack_wireShape.vertices	</vertices>
-			<primitive>	MidBack_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_Stern	</node>
-		<geometry>
-			<vertices>	MidBack_crack_SternShape.vertices	</vertices>
-			<primitive>	MidBack_crack_SternShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_crack_Stern_in	</node>
-		<geometry>
-			<vertices>	MidBack_crack_Stern_inShape.vertices	</vertices>
-			<primitive>	MidBack_crack_Stern_inShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_patch_Stern	</node>
-		<geometry>
-			<vertices>	MidBack_patch_SternShape.vertices	</vertices>
-			<primitive>	MidBack_patch_SternShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	MidBack_patch_Stern_wire	</node>
-		<geometry>
-			<vertices>	MidBack_patch_Stern_wireShape.vertices	</vertices>
-			<primitive>	MidBack_patch_Stern_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	MidBackShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	SEA_Platform	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	SEA_Platform	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Platform	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/platform.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	SEA_Shiden	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	SEA_Shiden	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Shiden	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/shiden.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_NetShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Net	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFrontShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_SternShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_SternShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Net_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Net	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Net_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Net	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Crack	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	8.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBackShape	</renderSet>
+				<renderSet>	SEA_Platform	</renderSet>
+				<renderSet>	SEA_Shiden	</renderSet>
+				<renderSet>	MidBack_NetShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFrontShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_inShape	</renderSet>
+				<renderSet>	MidBack_wireShape	</renderSet>
+				<renderSet>	MidBack_crack_SternShape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_inShape	</renderSet>
+				<renderSet>	MidBack_patch_SternShape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_wireShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	25.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_lod1Shape	</renderSet>
+				<renderSet>	SEA_Platform	</renderSet>
+				<renderSet>	SEA_Shiden	</renderSet>
+				<renderSet>	MidBack_Net_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod1Shape	</renderSet>
+				<renderSet>	MidBack_wire_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_wire_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	35.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_lod2Shape	</renderSet>
+				<renderSet>	SEA_Platform	</renderSet>
+				<renderSet>	SEA_Shiden	</renderSet>
+				<renderSet>	MidBack_Net_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod2Shape	</renderSet>
+				<renderSet>	MidBack_wire_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod2Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	250.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_lod3Shape	</renderSet>
+				<renderSet>	SEA_Platform	</renderSet>
+				<renderSet>	SEA_Shiden	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod3Shape	</renderSet>
+				<renderSet>	MidBack_wire_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod3Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </JSD015_Yugumo_1941_MidBack.visual>

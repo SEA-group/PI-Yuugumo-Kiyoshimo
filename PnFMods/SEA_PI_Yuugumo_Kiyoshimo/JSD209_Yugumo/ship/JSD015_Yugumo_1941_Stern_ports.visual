@@ -1,195 +1,209 @@
 <JSD015_Yugumo_1941_Stern_ports.visual>
-	<boundingBox>
-		<min>	-0.066700 -0.066700 -0.066700	</min>
-		<max>	0.066700 0.066700 0.066700	</max>
-	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	Stern_ports	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_FX_Fire_4	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.1911 -2.9950 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Flood_steam_right	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.3370 0.1460 -2.4950 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTraceBack	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -3.8250 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.1824 -0.2051 -3.2260 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.1824 -0.2051 -3.2260 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGA_10	</identifier>
-				<transform>
-					<row0>	-0.705308 -0.050405 0.707107 0.000000	</row0>
-					<row1>	-0.065438 0.997839 0.005858 0.000000	</row1>
-					<row2>	-0.705874 -0.042140 -0.707083 0.000000	</row2>
-					<row3>	-0.177292 0.191352 -2.980388 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGA_11	</identifier>
-				<transform>
-					<row0>	-0.705308 0.050405 -0.707107 0.000000	</row0>
-					<row1>	0.065438 0.997839 0.005858 0.000000	</row1>
-					<row2>	0.705874 -0.042140 -0.707083 0.000000	</row2>
-					<row3>	0.177292 0.191352 -2.980388 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGA_12	</identifier>
-				<transform>
-					<row0>	-0.999999 0.001624 0.000000 0.000000	</row0>
-					<row1>	0.001624 0.999908 -0.013454 0.000000	</row1>
-					<row2>	-0.000022 -0.013454 -0.999909 0.000000	</row2>
-					<row3>	-0.084341 0.192963 -3.492201 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGA_13	</identifier>
-				<transform>
-					<row0>	-0.999999 0.001624 0.000000 0.000000	</row0>
-					<row1>	0.001624 0.999908 -0.013454 0.000000	</row1>
-					<row2>	-0.000022 -0.013454 -0.999909 0.000000	</row2>
-					<row3>	0.065272 0.192684 -3.578513 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGB_1	</identifier>
-				<transform>
-					<row0>	-0.2438 -0.0079 0.9698 0.0000	</row0>
-					<row1>	-0.1340 0.9906 -0.0257 0.0000	</row1>
-					<row2>	-0.9605 -0.1362 -0.2426 0.0000	</row2>
-					<row3>	-0.1572 0.1849 -3.6334 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGB_2	</identifier>
-				<transform>
-					<row0>	-0.2481 0.0085 -0.9687 0.0000	</row0>
-					<row1>	0.1340 0.9906 -0.0257 0.0000	</row1>
-					<row2>	0.9594 -0.1362 -0.2469 0.0000	</row2>
-					<row3>	0.1575 0.1850 -3.6336 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGB_3	</identifier>
-				<transform>
-					<row0>	-0.2481 0.0085 -0.9687 0.0000	</row0>
-					<row1>	0.1340 0.9906 -0.0257 0.0000	</row1>
-					<row2>	0.9594 -0.1362 -0.2469 0.0000	</row2>
-					<row3>	0.1368 0.1849 -3.7061 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGB_4	</identifier>
-				<transform>
-					<row0>	-0.2692 -0.0115 0.9630 0.0000	</row0>
-					<row1>	-0.1340 0.9906 -0.0257 0.0000	</row1>
-					<row2>	-0.9537 -0.1360 -0.2682 0.0000	</row2>
-					<row3>	-0.1359 0.1848 -3.7092 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGB_5	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.1962 -2.8800 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGM_3	</identifier>
-				<transform>
-					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.203711 -2.319490 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_flag_nation	</identifier>
-				<transform>
-					<row0>	0.999715 -0.023869 0.000996 0.000000	</row0>
-					<row1>	0.023869 0.996237 -0.083323 0.000000	</row1>
-					<row2>	0.000996 0.083323 0.996522 0.000000	</row2>
-					<row3>	0.014763 0.515302 -3.750318 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM001_Propeller3_L	</identifier>
-				<transform>
-					<row0>	0.999848 -0.000548 -0.017429 0.000000	</row0>
-					<row1>	-0.000548 0.998027 -0.062790 0.000000	</row1>
-					<row2>	0.017429 0.062790 0.997875 0.000000	</row2>
-					<row3>	-0.182372 -0.205068 -3.225951 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM032_Propeller3_R	</identifier>
-				<transform>
-					<row0>	0.999848 0.000548 0.017429 0.000000	</row0>
-					<row1>	0.000548 0.998027 -0.062790 0.000000	</row1>
-					<row2>	-0.017429 0.062790 0.997875 0.000000	</row2>
-					<row3>	0.182372 -0.205068 -3.225951 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Ship_death_3	</identifier>
+				<identifier>	Stern_ports	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 -2.131631 1.000000	</row3>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
+				<node>
+					<identifier>	HP_FX_Fire_4	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.1911 -2.9950 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Flood_steam_right	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.3370 0.1460 -2.4950 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTraceBack	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -3.8250 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.1824 -0.2051 -3.2260 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.1824 -0.2051 -3.2260 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_10	</identifier>
+					<transform>
+						<row0>	-0.705308 -0.050405 0.707107 0.000000	</row0>
+						<row1>	-0.065438 0.997839 0.005858 0.000000	</row1>
+						<row2>	-0.705874 -0.042140 -0.707083 0.000000	</row2>
+						<row3>	-0.177292 0.191352 -2.980388 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_11	</identifier>
+					<transform>
+						<row0>	-0.705308 0.050405 -0.707107 0.000000	</row0>
+						<row1>	0.065438 0.997839 0.005858 0.000000	</row1>
+						<row2>	0.705874 -0.042140 -0.707083 0.000000	</row2>
+						<row3>	0.177292 0.191352 -2.980388 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_12	</identifier>
+					<transform>
+						<row0>	-0.999999 0.001624 0.000000 0.000000	</row0>
+						<row1>	0.001624 0.999908 -0.013454 0.000000	</row1>
+						<row2>	-0.000022 -0.013454 -0.999909 0.000000	</row2>
+						<row3>	-0.084341 0.192963 -3.492201 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_13	</identifier>
+					<transform>
+						<row0>	-0.999999 0.001624 0.000000 0.000000	</row0>
+						<row1>	0.001624 0.999908 -0.013454 0.000000	</row1>
+						<row2>	-0.000022 -0.013454 -0.999909 0.000000	</row2>
+						<row3>	0.065272 0.192684 -3.578513 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGB_1	</identifier>
+					<transform>
+						<row0>	-0.2438 -0.0079 0.9698 0.0000	</row0>
+						<row1>	-0.1340 0.9906 -0.0257 0.0000	</row1>
+						<row2>	-0.9605 -0.1362 -0.2426 0.0000	</row2>
+						<row3>	-0.1572 0.1849 -3.6334 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGB_2	</identifier>
+					<transform>
+						<row0>	-0.2481 0.0085 -0.9687 0.0000	</row0>
+						<row1>	0.1340 0.9906 -0.0257 0.0000	</row1>
+						<row2>	0.9594 -0.1362 -0.2469 0.0000	</row2>
+						<row3>	0.1575 0.1850 -3.6336 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGB_3	</identifier>
+					<transform>
+						<row0>	-0.2481 0.0085 -0.9687 0.0000	</row0>
+						<row1>	0.1340 0.9906 -0.0257 0.0000	</row1>
+						<row2>	0.9594 -0.1362 -0.2469 0.0000	</row2>
+						<row3>	0.1368 0.1849 -3.7061 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGB_4	</identifier>
+					<transform>
+						<row0>	-0.2692 -0.0115 0.9630 0.0000	</row0>
+						<row1>	-0.1340 0.9906 -0.0257 0.0000	</row1>
+						<row2>	-0.9537 -0.1360 -0.2682 0.0000	</row2>
+						<row3>	-0.1359 0.1848 -3.7092 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGB_5	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.1962 -2.8800 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGM_3	</identifier>
+					<transform>
+						<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 0.203711 -2.319490 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_flag_nation	</identifier>
+					<transform>
+						<row0>	0.999715 -0.023869 0.000996 0.000000	</row0>
+						<row1>	0.023869 0.996237 -0.083323 0.000000	</row1>
+						<row2>	0.000996 0.083323 0.996522 0.000000	</row2>
+						<row3>	0.014763 0.515302 -3.750318 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_CM001_Propeller3_L	</identifier>
+					<transform>
+						<row0>	0.999848 -0.000548 -0.017429 0.000000	</row0>
+						<row1>	-0.000548 0.998027 -0.062790 0.000000	</row1>
+						<row2>	0.017429 0.062790 0.997875 0.000000	</row2>
+						<row3>	-0.182372 -0.205068 -3.225951 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_CM032_Propeller3_R	</identifier>
+					<transform>
+						<row0>	0.999848 0.000548 0.017429 0.000000	</row0>
+						<row1>	0.000548 0.998027 -0.062790 0.000000	</row1>
+						<row2>	-0.017429 0.062790 0.997875 0.000000	</row2>
+						<row3>	0.182372 -0.205068 -3.225951 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_3	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 -2.131631 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<renderSets />
+	<lods>
+		<lod>
+			<extent>	200.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets />
+		</lod>
+	</lods>
 </JSD015_Yugumo_1941_Stern_ports.visual>

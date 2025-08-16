@@ -1,13 +1,6 @@
 <JGA018_25mm_Type96_single_dead.model>
-	<castsShadow>	false	</castsShadow>
-	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/lods/JGA018_25mm_Type96_single_dead_lod1	</parent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.023739 0.001068 -0.067285	</min>
-		<max>	0.035992 0.101916 0.100477	</max>
-	</visibilityBox>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA018_25mm_Type96_single_dead	</nodefullVisual>
+	<visual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA018_25mm_Type96_single_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JGA018_25mm_Type96_single_dead.model>

@@ -1,38 +1,106 @@
 <JD092_Director_Type_94.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	JD092_Director_Type_94	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.104200 -0.026108 -0.075765	</min>
 		<max>	0.104200 0.147001 0.083082	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	JD092_Director_Type_94	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	JD092_Director_Type_94	</node>
-		<geometry>
-			<vertices>	JD092_Director_Type_94Shape.vertices	</vertices>
-			<primitive>	JD092_Director_Type_94Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	JD092_Director_Type_94Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	JD092_Director_Type_94	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	JD092_Director_Type_94_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	JD092_Director_Type_94	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	JD092_Director_Type_94_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	JD092_Director_Type_94	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	JD092_Director_Type_94_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	JD092_Director_Type_94	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/director/JD092_Director_Type_94.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	JD092_Director_Type_94Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	4.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	JD092_Director_Type_94_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	15.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	JD092_Director_Type_94_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	40.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	JD092_Director_Type_94_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </JD092_Director_Type_94.visual>
